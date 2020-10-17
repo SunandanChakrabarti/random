@@ -40,10 +40,3 @@
   * Do not spam
 
 ---
-## Overview
-
-### Idea
-Fill in the Blanks, but with Images!
-
-### Explanation
-The aim is to build a deep learning model, that takes as input an image with a missing rectangular portion and a boolean mask indicating its location, and imagines the missing content. The basic set of packages can be found in requirements.txt and can be installed using the pip command from usage section. The suggested dataset consists of images of various indoor scenes. Use the provided code to create the blanks in the images.
