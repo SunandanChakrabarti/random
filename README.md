@@ -1,12 +1,6 @@
 # random
-<h1 align="center"><a href="https://organize.mlh.io/participants/events/4390-kickstarting-hacktoberfest-with-acm-vit">Hacktoberfest with Sunandan!</a></h1>
+<h1 align="center">Hacktoberfest with Sunandan!</h1>
 <p align="center">
-</p>
-
-<h2 align="center"> Fill in the Blanks </h2>
-
-<p align="center"> 
-You’ve lost random parts of your images. You need some mechanism to make your image set presentable again. Use your skill in Machine Learning to achieve this.
 </p>
 
 ---
